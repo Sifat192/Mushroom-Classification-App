@@ -59,7 +59,6 @@ All categorical features are encoded using Label Encoding before model training.
 
 ## Project Structure
 
-'''
 
 Mushroom-Classification-App/
 ├── app.py
@@ -74,7 +73,6 @@ Mushroom-Classification-App/
 └── notebook/
 └── mushroom_classification.ipynb
 
-'''
 ---
 
 ## Project Architecture
