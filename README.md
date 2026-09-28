@@ -59,29 +59,33 @@ All categorical features are encoded using Label Encoding before model training.
 
 ## Project Structure
 
+'''
+
 Mushroom-Classification-App/
-
 ├── app.py
-
 ├── mushrooms.csv
-
 ├── requirements.txt
-
 ├── README.md
-
 ├── screenshots/
-
 │ ├── home.png
-
 │ ├── svm.png
-
 │ ├── rf.png
-
 │ └── metrics.png
-
 └── notebook/
-
 └── mushroom_classification.ipynb
+
+'''
+---
+
+## Project Architecture
+
+The Streamlit app handles data preparation, model training,
+and evaluation. Users can compare Logistic Regression,
+Support Vector Machine, and Random Forest classifiers.
+
+![Mushroom classification app architecture](docs/images/architecture.png)
+
+[View full-size diagram](docs/images/architecture.png)
 
 ---
 
