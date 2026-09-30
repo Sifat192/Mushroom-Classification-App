@@ -59,30 +59,21 @@ All categorical features are encoded using Label Encoding before model training.
 
 ## Project Structure
 
+'''text
 
 Mushroom-Classification-App/
-
 ├── app.py
-
 ├── mushrooms.csv
-
 ├── requirements.txt
-
 ├── README.md
-
 ├── screenshots/
-
 │ ├── home.png
-
 │ ├── svm.png
-
 │ ├── rf.png
-
 │ └── metrics.png
-
 └── notebook/
-
 └── mushroom_classification.ipynb
+'''
 
 ---
 
